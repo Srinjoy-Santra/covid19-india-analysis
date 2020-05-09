@@ -2,9 +2,9 @@
 
 Some visualizations and analysis pertaining to Covid-19 disease in India. 
 
-## Article published on the same at linkedin
+## Know More
 
-[Article]()
+[Article](https://www.linkedin.com/pulse/analyzing-covid-19-indian-perspective-rohit-iyer)
 
 ## Jupyter notebook links
 - [Rohit's](https://github.com/Srinjoy-Santra/covid19-india-analysis/blob/1f541eec3e7074d09ac0cca5874db02c917b2a80/India_Corona_Analysis.ipynb)
@@ -12,7 +12,7 @@ Some visualizations and analysis pertaining to Covid-19 disease in India.
 
 ## Maps 
 
-### Ditricts
+### Districts
 ![districts](https://github.com/Srinjoy-Santra/covid19-india-analysis/blob/master/Images/districts.PNG)
 ![districts legend](https://github.com/Srinjoy-Santra/covid19-india-analysis/blob/master/Images/district_legend.PNG)
 
