@@ -25,3 +25,6 @@ Some visualizations and analysis pertaining to Covid-19 disease in India.
 
 ### Cluster Map
 ![cluster map](https://github.com/Srinjoy-Santra/covid19-india-analysis/blob/master/Images/cluster_map.PNG)
+
+### Containment zones and wards in kolkata
+![Containment zones and wards in kolkata](https://github.com/Srinjoy-Santra/covid19-india-analysis/blob/master/Images/containment_kolkata.PNG)
